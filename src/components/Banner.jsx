@@ -5,7 +5,7 @@ export default function Banner() {
     <div className="hero bg-gray bg-gray-200 my-10 h-2/4">
       <div className="hero-content flex-col justify-between items-center lg:flex-row-reverse w-5/6">
         <img
-          src="../src/assets/pngwing 1.png"
+          src="./../src/assets/pngwing 1.png"
           className="lg:max-w-sm w-50 md:w-100 lg:w-100 lg:h-100  rounded-lg "
         />
         <div>
